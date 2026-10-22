@@ -5,12 +5,12 @@
 
 ## 💫 About Me
 
-🎓 Mechanical Engineering graduate (2026), NITK Surathkal  
-🌱 Building my skills in Data Analytics, MIS, and Business Analysis  
-📊 Interested in data cleaning, SQL analysis, reporting, and visualization  
-💬 Ask me about SQL, Python, Excel, and data analysis  
-📄 [View My Resume](https://drive.google.com/drive/folders/15ZYsR_NFaQzkxsjM9SRRbSZ3AqhGici_?usp=drive_link)
-📫 akashhk37@gmail.com
+🎓 Mechanical Engineering graduate (2026), NITK Surathkal<br>
+🌱 Building my skills in Data Analytics, MIS, and Business Analysis<br>
+📊 Interested in data cleaning, SQL analysis, reporting, and visualization<br>
+💬 Ask me about SQL, Python, Excel, and data analysis<br>
+📄 [View My Resume](https://drive.google.com/drive/folders/15ZYsR_NFaQzkxsjM9SRRbSZ3AqhGici_?usp=drive_link)<br>
+📫 [akashhk37@gmail.com](mailto:akashhk37@gmail.com)
 
 ## 🚀 Featured Projects
 
