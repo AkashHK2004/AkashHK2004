@@ -9,17 +9,17 @@
 🌱 Building my skills in Data Analytics, MIS, and Business Analysis  
 📊 Interested in data cleaning, SQL analysis, reporting, and visualization  
 💬 Ask me about SQL, Python, Excel, and data analysis  
-📄 [View My Resume]([RESUME_LINK](https://drive.google.com/drive/folders/15ZYsR_NFaQzkxsjM9SRRbSZ3AqhGici_?usp=drive_link))  
+📄 [View My Resume]((https://drive.google.com/drive/folders/15ZYsR_NFaQzkxsjM9SRRbSZ3AqhGici_?usp=drive_link))  
 📫 akashhk37@gmail.com
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tools |
 |---|---|---|
-| [Supply Chain Fulfillment & Profitability Analytics](PROJECT_LINK) | Analyzed 180,000+ order-item records to study delivery delays, shipping performance, and profitability | Python, MySQL |
-| [Retail Sales Analysis](PROJECT_LINK) | Analyzed sales trends, product categories, and customer segments using a relational database | SQL, Excel, Tableau |
-| [Student Placement Analysis](PROJECT_LINK) | Explored placement outcomes and their association with academic performance, training, and internships | SQL, Excel |
-| [Credit Card Fraud Detection](PROJECT_LINK) | Compared machine learning models on an imbalanced dataset of 284,807 transactions | Python, Scikit-learn |
+| [Supply Chain Fulfillment & Profitability Analytics] | Analyzed 180,000+ order-item records to study delivery delays, shipping performance, and profitability | Python, MySQL |
+| [Retail Sales Analysis] | Analyzed sales trends, product categories, and customer segments using a relational database | SQL, Excel, Tableau |
+| [Student Placement Analysis]) | Explored placement outcomes and their association with academic performance, training, and internships | SQL, Excel |
+| [Credit Card Fraud Detection]) | Compared machine learning models on an imbalanced dataset of 284,807 transactions | Python, Scikit-learn |
 
 ## 🛠️ Tech Stack
 
