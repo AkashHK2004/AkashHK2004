@@ -9,7 +9,8 @@
 🌱 Building my skills in Data Analytics, MIS, and Business Analysis  
 📊 Interested in data cleaning, SQL analysis, reporting, and visualization  
 💬 Ask me about SQL, Python, Excel, and data analysis  
-📄 [View My Resume](https://drive.google.com/drive/folders/15ZYsR_NFaQzkxsjM9SRRbSZ3AqhGici_?usp=drive_link) 
+📄 [View My Resume](https://drive.google.com/drive/folders/15ZYsR_NFaQzkxsjM9SRRbSZ3AqhGici_?usp=drive_link)
+
 📫 akashhk37@gmail.com
 
 ## 🚀 Featured Projects
