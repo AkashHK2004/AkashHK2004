@@ -16,10 +16,10 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [Supply Chain Fulfillment & Profitability Analytics] | Analyzed 180,000+ order-item records to study delivery delays, shipping performance, and profitability | Python, MySQL |
-| [Retail Sales Analysis] | Analyzed sales trends, product categories, and customer segments using a relational database | SQL, Excel, Tableau |
-| [Student Placement Analysis]) | Explored placement outcomes and their association with academic performance, training, and internships | SQL, Excel |
-| [Credit Card Fraud Detection]) | Compared machine learning models on an imbalanced dataset of 284,807 transactions | Python, Scikit-learn |
+| Supply Chain Fulfillment & Profitability Analytics | Analyzed 180,000+ order-item records to study delivery delays, shipping performance, and profitability | Python, MySQL |
+| Retail Sales Analysis | Analyzed sales trends, product categories, and customer segments using a relational database | SQL, Excel, Tableau |
+| Student Placement Analysis | Explored placement outcomes and their association with academic performance, training, and internships | SQL, Excel |
+| Credit Card Fraud Detection | Compared machine learning models on an imbalanced dataset of 284,807 transactions | Python, Scikit-learn |
 
 ## 🛠️ Tech Stack
 
