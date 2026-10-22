@@ -1,5 +1,5 @@
 
-# Hi there, I'm Akash H K 👋
+# Hi, I'm Akash H K 👋
 
 ### Aspiring Data Analyst | SQL • Python • Excel • Tableau • Power BI
 
